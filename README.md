@@ -10,7 +10,7 @@
 - 🎯 Completed courses in Data Analysis using **Excel, Python, SQL, and Power BI**
 
 ---
-### 🛠️ Tools & Technologie
+### 🛠️ Tools 
 <code><img height="28" alt="Excel" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></code>
 <code><img height="28" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="28" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
