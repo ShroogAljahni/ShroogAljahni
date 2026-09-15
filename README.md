@@ -1,6 +1,5 @@
-<p align="center">
-  <h1 align="center">Hi, I'm Shorouq Al-Juhani 👋</h1>
-  <p align="center">
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shroog Aljahni" src="./assets/gh-readme-header.png" /></a></p>
+
     <strong>Computer Science Graduate | Aspiring Data Analyst</strong>
   </p>
 </p>
