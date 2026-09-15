@@ -1,6 +1,9 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shroog Aljahni" src="./assets/gh-readme-header.png" /></a></p>
-
+  <h1 align="center">Hi, I'm Shroog Aljahni 👋</h1>
+  <p align="center">
     <strong>Computer Science Graduate | Aspiring Data Analyst</strong>
+  </p>
+</p>
+
   </p>
 </p>
 <br />
