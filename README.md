@@ -4,9 +4,9 @@
 </p>
 
 ---
-### 🎓 About Me
+###  About Me
 🎓 **Computer Science Graduate** passionate about data analytics and AI.
-- 📚 Developing my skills in data processing, data visualization, and database management.
+- 💻 Developing my skills in data processing, data visualization, and database management.
 - 🎯 Completed courses in Data Analysis using **Excel, Python, SQL, and Power BI**
 
 ---
